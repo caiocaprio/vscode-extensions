@@ -1,0 +1,51 @@
+{
+  "window.zoomLevel": 0,
+  "code-eol.style": {
+      "color" : "#2a3f47",
+      "opacity" : 1.0
+      // there are more settings that can go in here
+      // see "ThemableDecorationAttachmentRenderOptions" on https://goo.gl/SYzyg8
+  },
+  "code-eol.toggleWithWhiteSpace": true,
+  // "code-eol.validLineEnding": "LF"  , // (optional) this makes "CRLF" endings render as error-color
+  // "code-eol.validLineEnding": "CRLF", // (optional) this makes "LF" endings render as error-color
+  "code-eol.newlineCharacter":"¬",
+  "code-eol.returnCharacter" :"⇠",
+  "code-eol.crlfCharacter"   :"↵",
+  "code-eol.newlineCharacterStyle" : {
+      "color": "#2a3f47",
+      "opacity": 0.9
+  },
+  "code-eol.returnCharacterStyle" : {
+      "color": "#2a3f47",
+      "opacity": 0.9
+  },
+  "code-eol.crlfCharacterStyle" : {
+      "color": "#2a3f47",
+      "opacity": 0.9
+  },
+  "workbench.colorTheme": "Monokai Pro (Filter Spectrum)",
+  "workbench.iconTheme": "vscode-icons",
+  "[javascriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
+      "editor.formatOnSave": true,
+      "editor.tabSize": 2
+  },
+  "[javascript]": {
+      "editor.formatOnSave": true,
+  },
+  "[styles]": {
+      "editor.formatOnSave": true,
+  },
+  "[json]": {
+      "editor.formatOnSave": true,
+  },
+  "files.associations": {
+      "*.hbs": "javascript"
+  },
+  "editor.tabSize": 2,    
+  "prettier.disableLanguages": [
+      
+  ],   
+  
+}

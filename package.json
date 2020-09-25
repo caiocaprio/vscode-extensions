@@ -1,0 +1,72 @@
+{
+	"name": "vscode-extensions",
+	"displayName": "Extension Pack",
+	"version": "1.0.0",
+	"description": "Collection of extensions for React",
+	"publisher": "caio-caprio",
+	"engines": {
+		"vscode": "^1.46.0"
+	},
+	"icon": "logo.png",
+	"galleryBanner": {
+		"color": "#030518",
+		"theme": "dark"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/caiocaprio/vscode-extensions.git"
+	},
+	"keywords": [
+		"vscode extensions",
+		"react",
+		"typescript",
+		"next",
+		"styled-components",
+		"graphql",
+		"apollo"
+	],
+	"bugs": {
+		"url": "https://github.com/caiocaprio/vscode-extensions/issues"
+	},
+	"homepage": "https://github.com/caiocaprio/vscode-extensions#readme",
+	"categories": [
+		"Extension Packs"
+	],
+	"extensionPack": [
+		"abusaidm.html-snippets",
+		"adrianwilczynski.asp-net-core-switcher",
+		"andys8.jest-snippets",
+		"apollographql.vscode-apollo",
+		"christian-kohler.npm-intellisense",
+		"christian-kohler.path-intellisense",
+		"cschlosser.doxdocgen",
+		"dbaeumer.vscode-eslint",
+		"donjayamanne.githistory",
+		"dsznajder.es7-react-js-snippets",
+		"eamodio.gitlens",
+		"EditorConfig.EditorConfig",
+		"eg2.vscode-npm-script",
+		"emmanuelbeziat.vscode-great-icons",
+		"esbenp.prettier-vscode",
+		"fabiospampinato.vscode-diff",
+		"felixfbecker.php-intellisense",
+		"formulahendry.auto-rename-tag",
+		"hdg.live-html-previewer",
+		"huizhou.githd",
+		"jeff-hykin.code-eol",
+		"jpoissonnier.vscode-styled-components",
+		"junstyle.php-cs-fixer",
+		"monokai.theme-monokai-pro-vscode",
+		"mrmlnc.vscode-duplicate",
+		"ms-dotnettools.csharp",
+		"msjsdiag.debugger-for-chrome",
+		"Orta.vscode-jest",
+		"PKief.material-icon-theme",
+		"PulkitGangwar.nextjs-snippets",
+		"rahulsahay.Csharp-ASPNETCore",
+		"skyran.js-jsx-snippets",
+		"vscode-icons-team.vscode-icons",
+		"waderyan.gitblame",
+		"xabikos.JavaScriptSnippets"
+	]
+}
