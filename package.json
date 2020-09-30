@@ -1,7 +1,7 @@
 {
 	"name": "vscode-extensions",
 	"displayName": "Extension Pack",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Collection of extensions for React",
 	"publisher": "caio-caprio",
 	"engines": {
@@ -67,6 +67,10 @@
 		"skyran.js-jsx-snippets",
 		"vscode-icons-team.vscode-icons",
 		"waderyan.gitblame",
-		"xabikos.JavaScriptSnippets"
-	]
+		"xabikos.JavaScriptSnippets",
+		"vscode-ext-color-highlight",
+	],
+	"dependencies": {
+		"vsce": "^1.80.0"
+	}
 }

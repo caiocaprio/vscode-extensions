@@ -4,6 +4,8 @@ Meu Conjunto de plugins do VS Code.
 
 ## Extensões incluídas
 
+- [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) - Esta extensão fornece fragmentos de JavaScript e React / Redux no ES7 com recursos de plug-in Babel para VS Code
+
 - [EditorConfig for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - Esse plugin sobreescreve as configurações do editor baseado no arquivo `.editorconfig` local.
 
 - [VS Code ESLint extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Integra o Eslint no editor para buscar erros.
@@ -33,6 +35,11 @@ Meu Conjunto de plugins do VS Code.
 
 - [JavaScript and TypeScript Nightly](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next) - Habilita o suporte JavaScript e TypeScript para as próximas versões.
 
+- [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight) - Esta extensão estiliza as cores css / web encontradas no seu documento.
+
+- [Doxygen Documentation Generator](https://marketplace.visualstudio.com/items?itemName=cschlosser.doxdocgen) - Fornece geração de documentação do Doxygen em tempo real, iniciando um bloco de comentário do Doxygen e pressionando enter.
+
+- [Duplicate action](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-duplicate) - Capacidade de duplicar arquivos e diretórios no código VS
 
 ## Gostaria de instalar somente algumas extensões?
 
